@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/03_Raycaster.unity
-    guid: 1dbfbff191bf453489a57b85fadedb92
+    path: Assets/Scenes/04_Physics.unity
+    guid: 7d9fefa752be62f4fbbba9c83cd014d0
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 8541c4bb225be6242969d0425d441ca8,
       type: 2}
